@@ -11,3 +11,4 @@ echo Третья строка
 ) > test.txt
 echo Hello, world! >> test.txt
 ls
+32423
